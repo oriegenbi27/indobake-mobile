@@ -1,0 +1,7 @@
+{
+  "appId": "app.lumira.indobake",
+  "appName": "Indobake Experience",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "launchAutoHide": false
+}

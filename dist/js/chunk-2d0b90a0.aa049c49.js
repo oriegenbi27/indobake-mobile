@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b90a0"],{"30f3":function(n,e,s){"use strict";s.r(e),s.d(e,"DialogWeb",(function(){return c}));var a=s("1547");class c extends a["b"]{async alert(n){window.alert(n.message)}async prompt(n){const e=window.prompt(n.message,n.inputText||"");return{value:null!==e?e:"",cancelled:null===e}}async confirm(n){const e=window.confirm(n.message);return{value:e}}}}}]);
+//# sourceMappingURL=chunk-2d0b90a0.aa049c49.js.map
